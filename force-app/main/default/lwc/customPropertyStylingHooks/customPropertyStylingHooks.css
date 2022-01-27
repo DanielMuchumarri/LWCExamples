@@ -1,0 +1,8 @@
+.slds-card{
+    background-color : var(--cardBGColor);
+}
+
+.slds-badge{
+    --sds-c-badge-color-background : var(--badgeBGColor);
+    --sds-c-badge-text-color : var(--badgeTextColor);    
+}
